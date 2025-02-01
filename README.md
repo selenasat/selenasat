@@ -35,7 +35,8 @@
 
 ### 🎮 **Mini Games Website**  
 - **Tech Stack:** HTML, CSS, JavaScript, PHP, SQLite3, Godot Engine  
-- **Description:** Developed a multi-game platform with leaderboards and user authentication  
+- **Description:** Developed a multi-game platform with leaderboards and user authentication
+- [View the GitHub Repository](https://github.com/Goalaso/minigamewebsite)
 
 ### ⌨️ **Custom 3D-Printed Mechanical Keyboard**  
 - **Tech Stack:** QMK Firmware, Hardware Design, 3D Printing  
