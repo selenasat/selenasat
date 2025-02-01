@@ -47,7 +47,8 @@
 
 ---
 
-## 🎯 Experience  
+## 🎯 Experience
+- 🔬 **Open Source Internship - Appwrite**
 - 🏆 **Computer Science Competition Team Lead**  
 - 🖥️ **Research Assistant - Web Development & Graphics Editing**  
 - 🔬 **Open Source Internship - Open Energy Dashboard**  
