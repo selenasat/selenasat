@@ -39,7 +39,9 @@
 
 ### ⌨️ **Custom 3D-Printed Mechanical Keyboard**  
 - **Tech Stack:** QMK Firmware, Hardware Design, 3D Printing  
-- **Description:** Designed a functional keyboard, hand-wired circuitry, and configured firmware  
+- **Description:** Designed a functional keyboard, hand-wired circuitry, and configured firmware
+- [![Watch this awesome video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/xph8DTsWbxM?si=CzcAxlKmf0qnq8mT)
+
 
 🚀 **More projects:** [Check out my GitHub Repositories](https://github.com/selenasat)  
 
