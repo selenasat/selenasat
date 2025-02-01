@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Selena!
+# 👋 Hi, I'm Selena Sat!
 💻 **Computer Science Student | Aspiring Software Engineer**  
 🎨 Passionate about **Frontend, UI/UX, and Full-Stack Development**  
 🌱 Currently learning **Machine Learning, Cloud Computing, and Speech Recognition**  
