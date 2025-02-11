@@ -69,9 +69,7 @@
 
 💡 Always open to learning and collaborating on exciting projects!  
 
-## 📊 GitHub Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=selenasat&theme=radical)  
+## 📊 GitHub Stats   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selenasat&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selenasat&show_icons=true&theme=radical)  
 
