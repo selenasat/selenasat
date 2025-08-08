@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Selena Sat!
-💻 **Computer Science Student | Aspiring Software Engineer**  
+💻 **Recent Computer Science Graduate 🎓 | Aspiring Software Engineer & Quantitative Analyst**  
 🎨 Passionate about **Frontend, UI/UX, and Full-Stack Development**  
 🌱 Currently learning **Machine Learning, Cloud Computing, and Speech Recognition**  
 🚀 **Seeking opportunities to contribute to innovative projects**  
@@ -7,7 +7,7 @@
 ---
 
 ## 🏆 Achievements  
-- 🎓 **BS in Computer Science** – Bellevue College (Expected June 2025)  
+- 🎓 **BS in Computer Science** – Bellevue College (June 2025)  
 - 🌟 **Habib STEM Scholarship Recipient (2024)**  
 - 🏅 **Norman and Camille Stromer Scholarship (2023)**  
 - 🎖️ **Debbie Killinger Scholarship for First-Generation College Students (2022)**  
