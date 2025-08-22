@@ -71,6 +71,7 @@
 
 ## 📊 GitHub Stats   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selenasat&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selenasat&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selenasat&show_icons=true&theme=radical)  
 
 <!--
